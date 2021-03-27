@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 env:
-  GitHubMail: "manofuranium@gmail.com"
-  GitHubName: "ElytrA8"
+  GitHubMail: "basex.dev@gmail.com"
+  GitHubName: "base-X"
 
 jobs:
   ubuntu:
